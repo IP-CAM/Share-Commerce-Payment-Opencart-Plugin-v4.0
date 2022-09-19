@@ -5,6 +5,8 @@ Share Commerce Payment OpenCart Shopping Cart Plugin v4.0
 - Opencart version 4.x
 
 # Installation Guide
+https://devdocs.share-commerce.com/Plugins/OpenCart
+
 1. Download sharecommerce_payment.ocmod.zip from github.
 2. Go to Opencart Back Office -> Extension -> installer
 3. Upload the sharecommerce_payment.ocmod.zip
