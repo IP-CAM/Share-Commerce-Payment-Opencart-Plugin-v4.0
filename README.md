@@ -14,3 +14,11 @@ https://devdocs.share-commerce.com/Plugins/OpenCart
 5. Go to Opencart Back Office -> Extension -> Extension, From "Choose the extension type", select "Payment"
 6. Locate "Share Commerce Payment", click edit.
 7. Fill in MerchantId, SecretKey provided by Share Commerce, and change the Status to Enable and save the config.
+
+
+
+# Change Log
+
+## 2024-12-03
+- change to new Share Commerce checkout page 
+- latest support opencart 4.0.2.3
