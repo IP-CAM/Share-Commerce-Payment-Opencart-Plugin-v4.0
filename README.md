@@ -22,3 +22,6 @@ https://devdocs.share-commerce.com/Plugins/OpenCart
 ## 2024-12-03
 - change to new Share Commerce checkout page 
 - latest support opencart 4.0.2.3
+
+## 2022-09-19
+- support version 4.0.1.1
